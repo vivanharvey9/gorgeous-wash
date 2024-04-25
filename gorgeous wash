@@ -1,0 +1,3548 @@
+
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-GB"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- This is Squarespace. --><!-- keyboard-saffron-ja7l -->
+<base href="">
+<meta charset="utf-8" />
+<title>Beautiful Enterprise</title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/f85b2c09-0a11-4260-9cdd-a2ed42d48b17/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://www.beautifulenterprise.co.uk"/>
+<meta property="og:site_name" content="Beautiful Enterprise"/>
+<meta property="og:title" content="Beautiful Enterprise"/>
+<meta property="og:url" content="https://www.beautifulenterprise.co.uk"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/632463cd1ce157534385028e/t/6374e9fd59c71a6624ed0c8c/1668606461294/BeautifulEnterprise_FinalLogo.png?format=1500w"/>
+<meta property="og:image:width" content="1500"/>
+<meta property="og:image:height" content="1500"/>
+<meta itemprop="name" content="Beautiful Enterprise"/>
+<meta itemprop="url" content="https://www.beautifulenterprise.co.uk"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/632463cd1ce157534385028e/t/6374e9fd59c71a6624ed0c8c/1668606461294/BeautifulEnterprise_FinalLogo.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/632463cd1ce157534385028e/t/6374e9fd59c71a6624ed0c8c/1668606461294/BeautifulEnterprise_FinalLogo.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/632463cd1ce157534385028e/t/6374e9fd59c71a6624ed0c8c/1668606461294/BeautifulEnterprise_FinalLogo.png?format=1500w"/>
+<meta name="twitter:title" content="Beautiful Enterprise"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/632463cd1ce157534385028e/t/6374e9fd59c71a6624ed0c8c/1668606461294/BeautifulEnterprise_FinalLogo.png?format=1500w"/>
+<meta name="twitter:url" content="https://www.beautifulenterprise.co.uk"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,300;1,500;1,700">
+<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-70516ca32e8783ce987a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-70516ca32e8783ce987a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-70736932c490ae0713e6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-70736932c490ae0713e6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-24ffb21b424f235e16e6-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-24ffb21b424f235e16e6-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-84768f53feefc7100306-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-84768f53feefc7100306-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-1954d7801b9fe28cb073-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-1954d7801b9fe28cb073-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-4789a12096f1297e4c1b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-db745857afb2ec3ffb4f-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ac0afef4825691a4645-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-9e7074f1bb18f7222944-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-65c9630464ac844f013c-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-9b34dfd319c824fabec4-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-428274a2711c6437783f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-b766d6545189551b5307-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-fe64d18b463750f00fa8-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-93991cf619906e47c736-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-f5feb8e07e62e77fe5b8-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-456f8a096c32579b1685-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4015fa07502fd85cce51-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-9c7b93bd6c6eec5cef37-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-0e346e0a347887bb4ffd-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-4799076ff5857c7e22af-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-22d395fb29d79725739b-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-4f86cb20877dafd2ae07-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-5869a38a2bb3cda993d1-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-f94e3291d677fe675699-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-2b67577a9b5c8b3e7ba3-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-78c29e2a12a5aa2a2d61-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-5386c2973db284d2c70a-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-0c994a49c22d3424ca65-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-e40477de1ab3fc552e37-min.en-US.js"}},"pageType":2,"website":{"id":"632463cd1ce157534385028e","identifier":"keyboard-saffron-ja7l","websiteType":1,"contentModifiedOn":1698067383245,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-GB","timeZone":"Europe/London","machineTimeZoneOffset":3600000,"timeZoneOffset":3600000,"timeZoneAbbr":"BST","siteTitle":"Beautiful Enterprise","fullSiteTitle":"Beautiful Enterprise","siteDescription":"","logoImageId":"6374e9fd59c71a6624ed0c8c","shareButtonOptions":{"1":true,"6":true,"7":true,"4":true,"2":true,"3":true,"8":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/2f47ff6a-1676-4636-a813-90fe1e3574b6/BeautifulEnterprise_FinalLogo.png","authenticUrl":"https://www.beautifulenterprise.co.uk","internalUrl":"https://keyboard-saffron-ja7l.squarespace.com","baseUrl":"https://www.beautifulenterprise.co.uk","primaryDomain":"www.beautifulenterprise.co.uk","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":62,"screenname":"Twitter","addedOn":1663329229576,"profileUrl":"https://twitter.com/timthorlby","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":65,"screenname":"LinkedIn","addedOn":1663336318574,"profileUrl":"https://www.linkedin.com/in/tim-thorlby-35a25821/?originalSubdomain=uk","iconEnabled":true,"serviceName":"linkedin-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"632463cd1ce1575343850291","websiteId":"632463cd1ce157534385028e","subjects":[],"country":"GB","state":"ENG","simpleLikingEnabled":true,"popupOverlaySettings":{"style":1,"enabledPages":[]},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"GBP","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively.","cookieBannerTheme":"DARK","cookieBannerThemeName":"black","cookieBannerVariant":"BAR","cookieBannerPosition":"BOTTOM","cookieBannerCtaVariant":"ICON","cookieBannerCtaText":"Accept","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"Decline","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":false},"websiteCloneable":false,"collection":{"title":"Home","id":"632468012e837e0192fc453c","fullUrl":"/","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"200px","header-mobile-logo-max-height":"131px","header-vert-padding":"3vw","header-width":"Full","maxPageWidth":"1400px","pagePadding":"4vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"3","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"44px","tweak-blog-basic-grid-meta-spacing":"32px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"40px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"50","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Medium","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"30px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"20px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"30px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.1s","tweak-global-animations-animation-duration":"0.1s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"none","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"false","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Medium","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Forward Slash","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"75","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Medium","tweak-portfolio-hover-static-animation-type":"Scale Up","tweak-portfolio-hover-static-delimiter":"Forward Slash","tweak-portfolio-hover-static-front":"false","tweak-portfolio-hover-static-layout":"Stacked","tweak-portfolio-hover-static-size":"75","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"1:1 Square","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"6vw","tweak-product-basic-item-image-zoom-factor":"2","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"3","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"2vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"2vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Middle","tweak-products-width":"Inset","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["hideable_header_footer_for_memberareas","campaigns_thumbnail_layout","google_consent_v2","fluid_engine","accounting_orders_sync","enable_css_variable_tweaks","commerce_etsy_shipping_import","campaigns_discount_section_in_automations","themes","campaigns_global_uc_ab","campaigns_import_discounts","campaigns_new_image_layout_picker","nested_categories_migration_enabled","member_areas_feature","commerce_clearpay","hideable_header_footer_for_courses","marketing_landing_page","background_art_onboarding","hideable_header_footer_for_videos","scripts_defer","supports_versioned_template_assets","pdp_product_add_ons_visitor_site","commerce_checkout_website_updates_enabled","hideable_header_footer","commerce_site_visitor_metrics","crm_redesign_phase_1","i18n_beta_website_locales","unify_edit_mode_p2","customer_accounts_email_verification","fluid_engine_clean_up_grid_contextual_change","customer_account_creation_recaptcha","commerce_etsy_product_import","commerce_paywall_renewal_notifications","visitor_react_forms","nested_categories","override_block_styles","hide_header_footer_beta","commsplat_forms_visitor_profile","website_fonts","commerce_restock_notifications","new_stacked_index","campaigns_discount_section_in_blasts","donations_panel_refactor","is_feature_gate_refresh_enabled","commerce_order_status_access","collection_typename_switching","commerce_currency_jpy","send_local_pickup_ready_email","order_status_page_checkout_landing_enabled","crm_product_contacts_use_mfe","commerce_subscription_renewal_notifications","toggle_preview_new_shortcut","viewer-role-contributor-invites","proposals_beta_in_circle_labs"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[0,"EU","GMT/BST",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Europe/London","name":"Greenwich Mean Time"}},"env":"PRODUCTION"};</script><script type="application/ld+json">{"url":"https://www.beautifulenterprise.co.uk","name":"Beautiful Enterprise","description":"","image":"//images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/2f47ff6a-1676-4636-a813-90fe1e3574b6/BeautifulEnterprise_FinalLogo.png","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/632463cd1ce157534385028e/19/5c5a519771c10ba3470d8101/632463cd1ce15753438502a8/1518/site.css"/><script data-sqs-type="cookiepreferencesgetter">(function(){window.getSquarespaceCookies = function() {    const cookiesAllowed = ('; '+document.cookie).split(`; ss_cookieAllowed=`).pop().split(';')[0] === 'true';    const cookiePreferenceValue = cookiesAllowed ? 'accepted' : 'declined';    return {      performance: cookiePreferenceValue,      marketing: cookiePreferenceValue    }}})()</script><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    
+      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1712772943022-RISL5OTW906SEOCXSNEC/static.css">
+    
+  </head>
+
+  <body
+    id="collection-632468012e837e0192fc453c"
+    class="
+      primary-button-style-solid primary-button-shape-square secondary-button-style-solid secondary-button-shape-square tertiary-button-style-solid tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-full tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name  tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-inset tweak-product-basic-item-gallery-aspect-ratio-11-square tweak-product-basic-item-text-alignment-center tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-gbp collection-type-page collection-layout-default collection-632468012e837e0192fc453c homepage mobile-style-available sqs-seven-one
+      
+        show-pdp-product-add-ons
+      
+      
+      
+        
+          
+            
+              
+            
+          
+        
+      
+    "
+    data-description="plp-mobile-editor-column"
+    tabindex="-1"
+  >
+    <div
+      id="siteWrapper"
+      class="clearfix site-wrapper"
+    >
+      
+        <div id="floatingCart" class="floating-cart hidden">
+          <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
+            <span class="Cart-inner">
+              
+
+
+
+  <svg class="icon icon--cart" viewBox="0 0 31 24">
+  <g class="svg-icon cart-icon--odd">
+    <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1"/>
+    <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1"/>
+    <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+      c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12"/>
+  </g>
+</svg>
+
+              <div class="legacy-cart icon-cart-quantity">
+                <span class="sqs-cart-quantity">0</span>
+              </div>
+            </span>
+          </a>
+        </div>
+      
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <header
+    data-test="header"
+    id="header"
+    
+    class="
+      
+        
+          dark
+        
+      
+      header theme-col--primary
+    "
+    data-section-theme="dark"
+    data-controller="Header"
+    data-current-styles="{
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/subscribe&quot;,
+&quot;buttonText&quot;: &quot;Sign up for Insight Blog&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: false,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;stroke-1&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: true,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
+    data-section-id="header"
+    data-header-theme=""
+    data-menu-overlay-theme=""
+    data-header-style="dynamic"
+    data-language-picker="{
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
+    
+    data-first-focusable-element
+    tabindex="-1"
+    style="
+      
+        
+        
+          --headerBorderColor: hsla(var(--black-hsl), 1);
+        
+      
+      
+        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+      
+        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+    "
+  >
+    
+<div class="sqs-announcement-bar-dropzone"></div>
+
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
+
+
+<style>
+    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+        .header-blur-background {
+            
+            
+        }
+    }
+</style>
+      <div
+        class="header-border"
+        data-header-style="dynamic"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
+
+
+
+
+
+
+  
+    border-width: 0px !important;
+  
+
+
+
+  
+
+
+
+"
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="dynamic"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
+
+
+  
+"
+      ></div>
+      
+      
+
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
+
+
+
+
+
+
+  
+    padding: 0;
+  
+
+
+
+"
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
+
+        <div class="header-display-desktop" data-content-field="site-title">
+          
+
+          
+
+          
+
+          
+
+          
+
+          
+          
+            
+            <!-- Social -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+              
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
+                      
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
+<img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/2f47ff6a-1676-4636-a813-90fe1e3574b6/BeautifulEnterprise_FinalLogo.png?format=1500w" alt="Beautiful Enterprise" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+
+                        </a>
+                      </div>
+
+                    
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/about"
+        data-animation-role="header-element"
+        
+      >
+        About
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/policylab"
+        data-animation-role="header-element"
+        
+      >
+        Policy Lab
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/insight"
+        data-animation-role="header-element"
+        
+      >
+        Insight
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/freequote"
+        data-animation-role="header-element"
+        
+      >
+        Free Quote
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
+              </div>
+
+              
+              <div class="showOnDesktop">
+                
+              </div>
+
+              
+                <div class="header-actions-action header-actions-action--cta" data-animation-role="header-element">
+                  <a
+                    class="btn btn--border theme-btn--primary-inverse sqs-button-element--primary"
+                    href="/subscribe"
+                    
+                  >
+                    Sign up for Insight Blog
+                  </a>
+                </div>
+              
+            </div>
+          
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 1px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-has-visible-non-navigation-items
+
+
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
+    </div>
+  </button>
+</div>
+
+          
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
+          
+            
+            <!-- Social -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+              
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
+                      
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
+<img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/2f47ff6a-1676-4636-a813-90fe1e3574b6/BeautifulEnterprise_FinalLogo.png?format=1500w" alt="Beautiful Enterprise" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+
+                        </a>
+                      </div>
+
+                    
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/about"
+        data-animation-role="header-element"
+        
+      >
+        About
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/policylab"
+        data-animation-role="header-element"
+        
+      >
+        Policy Lab
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/insight"
+        data-animation-role="header-element"
+        
+      >
+        Insight
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/freequote"
+        data-animation-role="header-element"
+        
+      >
+        Free Quote
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
+              </div>
+
+              
+              <div class="showOnDesktop">
+                
+              </div>
+
+              
+                <div class="header-actions-action header-actions-action--cta" data-animation-role="header-element">
+                  <a
+                    class="btn btn--border theme-btn--primary-inverse sqs-button-element--primary"
+                    href="/subscribe"
+                    
+                  >
+                    Sign up for Insight Blog
+                  </a>
+                </div>
+              
+            </div>
+          
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 1px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-has-visible-non-navigation-items
+
+
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
+    </div>
+  </button>
+</div>
+
+          
+          
+          
+          
+          
+        </div>
+      </div>
+    </div>
+    <!-- (Mobile) Menu Navigation -->
+    <div class="header-menu header-menu--folder-list
+      
+      
+      
+      
+      
+      "
+      data-section-theme=""
+      data-current-styles="{
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;/subscribe&quot;,
+&quot;buttonText&quot;: &quot;Sign up for Insight Blog&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: false,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;stroke-1&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: true,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
+      data-section-id="overlay-nav"
+      data-show-account-login="true"
+      data-test="header-menu">
+      <div class="header-menu-bg theme-bg--primary"></div>
+      <div class="header-menu-nav">
+        <nav class="header-menu-nav-list">
+          <div data-folder="root" class="header-menu-nav-folder">
+            <div class="header-menu-nav-folder-content">
+              <!-- Menu Navigation -->
+<div class="header-menu-nav-wrapper">
+  
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/about"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  About
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/policylab"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Policy Lab
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/insight"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Insight
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/freequote"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Free Quote
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+  
+</div>
+
+              
+            </div>
+            
+            
+            
+            <div class="header-menu-cta">
+              <a
+                class="theme-btn--primary btn sqs-button-element--primary"
+                href="/subscribe"
+                
+              >
+                Sign up for Insight Blog
+              </a>
+            </div>
+            
+          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+
+
+
+      <main id="page" class="container" role="main">
+        
+          
+<article class="sections" id="sections" data-page-sections="632468012e837e0192fc453b">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="dark"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    dark'
+  
+  data-section-id="632468012e837e0192fc453f"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+&quot;backgroundImage&quot;: {
+&quot;id&quot;: &quot;63246f57ef9a8457c9a14d4d&quot;,
+&quot;recordType&quot;: 2,
+&quot;addedOn&quot;: 1663332183107,
+&quot;updatedOn&quot;: 1663332183138,
+&quot;workflowState&quot;: 1,
+&quot;publishOn&quot;: 1663332183107,
+&quot;authorId&quot;: &quot;6324622c7bb69b571cd876b6&quot;,
+&quot;systemDataId&quot;: &quot;7caba598-d56a-4214-b13e-5b95c6c47771&quot;,
+&quot;systemDataVariants&quot;: &quot;2400x1601,100w,300w,500w,750w,1000w,1500w&quot;,
+&quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+&quot;filename&quot;: &quot;tim-easley-1x8xvvVXAYI-unsplash.jpg&quot;,
+&quot;mediaFocalPoint&quot;: {
+&quot;x&quot;: 0.5,
+&quot;y&quot;: 0.5,
+&quot;source&quot;: 3
+},
+&quot;colorData&quot;: {
+&quot;topLeftAverage&quot;: &quot;cfc3c7&quot;,
+&quot;topRightAverage&quot;: &quot;889bcd&quot;,
+&quot;bottomLeftAverage&quot;: &quot;84829d&quot;,
+&quot;bottomRightAverage&quot;: &quot;5c5b6e&quot;,
+&quot;centerAverage&quot;: &quot;ddd2d3&quot;,
+&quot;suggestedBgColor&quot;: &quot;c3bec7&quot;
+},
+&quot;urlId&quot;: &quot;9u787lf99h22xbvxfruj6ssydnaach&quot;,
+&quot;title&quot;: &quot;&quot;,
+&quot;body&quot;: null,
+&quot;likeCount&quot;: 0,
+&quot;commentCount&quot;: 0,
+&quot;publicCommentCount&quot;: 0,
+&quot;commentState&quot;: 2,
+&quot;unsaved&quot;: false,
+&quot;author&quot;: {
+&quot;id&quot;: &quot;6324622c7bb69b571cd876b6&quot;,
+&quot;displayName&quot;: &quot;Tim Thorlby&quot;,
+&quot;firstName&quot;: &quot;Tim&quot;,
+&quot;lastName&quot;: &quot;Thorlby&quot;,
+&quot;bio&quot;: &quot;&quot;
+},
+&quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg&quot;,
+&quot;contentType&quot;: &quot;image/jpeg&quot;,
+&quot;items&quot;: [ ],
+&quot;pushedServices&quot;: { },
+&quot;pendingPushedServices&quot;: { },
+&quot;recordTypeLabel&quot;: &quot;image&quot;,
+&quot;originalSize&quot;: &quot;2400x1601&quot;
+},
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;customSectionHeight&quot;: 1,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;dark&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;,
+&quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: {
+&quot;type&quot;: &quot;none&quot;
+},
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;page&quot;
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+
+
+
+
+
+  
+
+
+
+<img alt="" data-src="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg" data-image="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg" data-image-dimensions="2400x1601" data-image-focal-point="0.5,0.5" alt="tim-easley-1x8xvvVXAYI-unsplash.jpg" data-load="false" elementtiming="nbf-background" src="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg" width="2400" height="1601" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/7caba598-d56a-4214-b13e-5b95c6c47771/tim-easley-1x8xvvVXAYI-unsplash.jpg?format=2500w 2500w" fetchpriority="high" loading="eager" decoding="async" data-loader="sqs">
+
+
+
+
+        
+        <div class="section-background-overlay" style="opacity: 0.15;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-632468012e837e0192fc453e {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(7,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-632468012e837e0192fc453e {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-632468012e837e0192fc453e {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(4,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-d30e2ad15f31f81c2949 {
+    grid-area: 1/2/8/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-d30e2ad15f31f81c2949 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-d30e2ad15f31f81c2949 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-d30e2ad15f31f81c2949 {
+      grid-area: 1/2/5/21;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-d30e2ad15f31f81c2949 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-d30e2ad15f31f81c2949 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-632468012e837e0192fc453e"><div class="fe-block fe-block-d30e2ad15f31f81c2949"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-d30e2ad15f31f81c2949"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">Delivering purpose-driven organisations</h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    bright'
+  
+  data-section-id="632468012e837e0192fc4542"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;bright&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;generative&quot;
+}"
+  data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: {
+&quot;type&quot;: &quot;none&quot;
+},
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;page&quot;
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-632468012e837e0192fc4541 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(42,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-632468012e837e0192fc4541 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-632468012e837e0192fc4541 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(52,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-21535a747a84f6871203 {
+    grid-area: 1/2/12/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-21535a747a84f6871203 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-21535a747a84f6871203 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-21535a747a84f6871203 {
+      grid-area: 3/3/16/14;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-21535a747a84f6871203 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-21535a747a84f6871203 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-4ca33ec6f879a614b8e1 {
+    grid-area: 12/2/17/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-4ca33ec6f879a614b8e1 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-4ca33ec6f879a614b8e1 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-4ca33ec6f879a614b8e1 {
+      grid-area: 3/15/18/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-4ca33ec6f879a614b8e1 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-4ca33ec6f879a614b8e1 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-9adf0dd602b0f49d90de {
+    grid-area: 18/2/28/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-9adf0dd602b0f49d90de .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-9adf0dd602b0f49d90de .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-9adf0dd602b0f49d90de {
+      grid-area: 24/15/42/26;
+      z-index: 4;
+
+      
+    }
+
+    .fe-block-9adf0dd602b0f49d90de .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-9adf0dd602b0f49d90de .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1710161582677_16377 {
+    grid-area: 28/2/30/10;
+    z-index: 9;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1710161582677_16377 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1710161582677_16377 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1710161582677_16377 {
+      grid-area: 43/2/51/26;
+      z-index: 9;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1710161582677_16377 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1710161582677_16377 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-3b20fc007d6e7e749364 {
+    grid-area: 30/2/36/10;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-3b20fc007d6e7e749364 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-3b20fc007d6e7e749364 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-3b20fc007d6e7e749364 {
+      grid-area: 20/2/23/13;
+      z-index: 5;
+
+      
+    }
+
+    .fe-block-3b20fc007d6e7e749364 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-3b20fc007d6e7e749364 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-0400fba2a217d85685b1 {
+    grid-area: 36/2/39/10;
+    z-index: 6;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-0400fba2a217d85685b1 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-0400fba2a217d85685b1 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0400fba2a217d85685b1 {
+      grid-area: 24/2/42/13;
+      z-index: 6;
+
+      
+    }
+
+    .fe-block-0400fba2a217d85685b1 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-0400fba2a217d85685b1 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-bcb3589aa91923cefd43 {
+    grid-area: 39/2/41/6;
+    z-index: 7;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-bcb3589aa91923cefd43 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-bcb3589aa91923cefd43 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-bcb3589aa91923cefd43 {
+      grid-area: 51/2/53/6;
+      z-index: 7;
+
+      
+    }
+
+    .fe-block-bcb3589aa91923cefd43 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-bcb3589aa91923cefd43 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1663690191812_36814 {
+    grid-area: 41/2/43/10;
+    z-index: 8;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1663690191812_36814 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1663690191812_36814 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1663690191812_36814 {
+      grid-area: 1/4/3/25;
+      z-index: 8;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1663690191812_36814 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1663690191812_36814 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-632468012e837e0192fc4541"><div class="fe-block fe-block-21535a747a84f6871203"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-21535a747a84f6871203"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <svg data-image-mask-id="21535a747a84f6871203" width="0" height="0" style="position: absolute;">
+    <defs>
+      <clipPath id="21535a747a84f6871203" clipPathUnits="objectBoundingBox">
+        
+
+        
+
+        
+
+        
+          <path d="M0,0.5 A0.5 0.5, 0 0 1, 1 0.5 M1,0.5 A0.5 0.5, 0 0 1, 0 0.5 Z">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+      </clipPath>
+    </defs>
+  </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-left
+        combination-animation-slide-up
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  data-animation-override
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          data-shape-mask="circle"
+          style="overflow: hidden;clip-path: url(#21535a747a84f6871203);-webkit-clip-path: url(#21535a747a84f6871203);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/bfaf6ef6-1a7e-4ad2-83d0-5dfe194f3c03/Tim+Thorlby+-+Bio+Pic.jpg" data-image="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/bfaf6ef6-1a7e-4ad2-83d0-5dfe194f3c03/Tim+Thorlby+-+Bio+Pic.jpg" data-image-dimensions="4000x6000" data-image-focal-point="0.4839997854003775,0.352" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/bfaf6ef6-1a7e-4ad2-83d0-5dfe194f3c03/Tim+Thorlby+-+Bio+Pic.jpg" width="4000" height="6000" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 48.39997854003775% 35.199999999999996%" srcset="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/bfaf6ef6-1a7e-4ad2-83d0-5dfe194f3c03/Tim+Thorlby+-+Bio+Pic.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/bfaf6ef6-1a7e-4ad2-83d0-5dfe194f3c03/Tim+Thorlby+-+Bio+Pic.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/bfaf6ef6-1a7e-4ad2-83d0-5dfe194f3c03/Tim+Thorlby+-+Bio+Pic.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/bfaf6ef6-1a7e-4ad2-83d0-5dfe194f3c03/Tim+Thorlby+-+Bio+Pic.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/bfaf6ef6-1a7e-4ad2-83d0-5dfe194f3c03/Tim+Thorlby+-+Bio+Pic.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/bfaf6ef6-1a7e-4ad2-83d0-5dfe194f3c03/Tim+Thorlby+-+Bio+Pic.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/bfaf6ef6-1a7e-4ad2-83d0-5dfe194f3c03/Tim+Thorlby+-+Bio+Pic.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-21535a747a84f6871203 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-4ca33ec6f879a614b8e1"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-4ca33ec6f879a614b8e1"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Beautiful Enterprise uses <strong>research and analysis, evaluation, collaborative learning and strategic support </strong>to help shape and strengthen good ethical businesses, sustainable social enterprises, charities and public services. </p><p class="" style="white-space:pre-wrap;">I work with businesses, social enterprises and charities to promote <strong>good business, a fair economy and dignified work,</strong> as<strong> </strong>I believe that good purpose-driven enterprise is one of the <strong>best long-term solutions</strong> to poverty, social breakdown and climate change. </p><p class="" style="white-space:pre-wrap;">I also work with <strong>charities</strong> and <strong>public services</strong> to improve their strategic focus and impact. </p><p class="" style="white-space:pre-wrap;">I am inspired by a vision of <strong>economic justice, a strong society and environmental flourishing </strong>and want to see a renewal of our national life. </p><p class="" style="white-space:pre-wrap;">My <a href="https://www.beautifulenterprise.co.uk/insight"><strong>Insight Blog</strong></a> offers an in-depth and long-term perspective on key issues each month and my <a href="https://www.beautifulenterprise.co.uk/policylab"><strong>Policy Lab</strong></a> provides new resources to stimulate discussion.  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-9adf0dd602b0f49d90de"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-9adf0dd602b0f49d90de"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-right
+        combination-animation-slide-up
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  data-animation-override
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="true" data-src="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/d9a5514e-bbd3-42e2-8591-7345acd1b6d6/window+cleaner.jpg" data-image="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/d9a5514e-bbd3-42e2-8591-7345acd1b6d6/window+cleaner.jpg" data-image-dimensions="971x884" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/d9a5514e-bbd3-42e2-8591-7345acd1b6d6/window+cleaner.jpg" width="971" height="884" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/d9a5514e-bbd3-42e2-8591-7345acd1b6d6/window+cleaner.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/d9a5514e-bbd3-42e2-8591-7345acd1b6d6/window+cleaner.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/d9a5514e-bbd3-42e2-8591-7345acd1b6d6/window+cleaner.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/d9a5514e-bbd3-42e2-8591-7345acd1b6d6/window+cleaner.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/d9a5514e-bbd3-42e2-8591-7345acd1b6d6/window+cleaner.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/d9a5514e-bbd3-42e2-8591-7345acd1b6d6/window+cleaner.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/632463cd1ce157534385028e/d9a5514e-bbd3-42e2-8591-7345acd1b6d6/window+cleaner.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-9adf0dd602b0f49d90de .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1710161582677_16377"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1710161582677_16377"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>Recent Work</strong></p><p class="" style="white-space:pre-wrap;">Within the last year or so, I have worked as an Associate of Resonance Ltd to deliver support to <strong>social enterprises</strong> and also undertaken a comprehensive mapping study for <strong>Devon County Council</strong> and partners to update and support their Safe Accommodation strategy. With Think Philanthropy I have worked for the <strong>Arts Council of Wales</strong>, supporting the development of new national arts projects and capital investment strategies. I wrote a report on the <a href="https://www.theosthinktank.co.uk/research/2024/03/11/the-ties-that-bind" target="_blank"><strong>future of work and the importance of mutuality</strong></a> for Theos think tank. I have also undertaken research and feasibility work for the <strong>Centre for Theology &amp; Community</strong> and the <strong>Guild Church of St Katharine Cree</strong>, the new church for workers in the City of London. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-3b20fc007d6e7e749364"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-3b20fc007d6e7e749364"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="white-space:pre-wrap;">Expertise</h1>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-0400fba2a217d85685b1"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-0400fba2a217d85685b1"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><strong>Learning</strong> </p><p class="" style="white-space:pre-wrap;">I work collaboratively to undertake research, impact assessment and develop theories of change. <strong>Learning Labs</strong> can also help to shape new options and test them, bringing insight and innovation to your future plans. </p></li><li><p class="" style="white-space:pre-wrap;"><strong>Scoping</strong></p><p class="" style="white-space:pre-wrap;">I undertake feasibility studies, mapping studies and use analysis to scope out challenges and opportunities.</p></li><li><p class="" style="white-space:pre-wrap;"><strong>Problem-solving</strong></p><p class="" style="white-space:pre-wrap;">I can help you diagnose management issues and develop new strategies.</p></li><li><p class="" style="white-space:pre-wrap;"><strong>Growing</strong></p><p class="" style="white-space:pre-wrap;">I have experience of starting &amp; growing social enterprises &amp; businesses, as well as charities, so can work with you on your journey.</p></li><li><p class="" style="white-space:pre-wrap;"><strong>Insight &amp; storytelling</strong></p><p class="" style="white-space:pre-wrap;">I can help you develop and promote ideas, which will help you to achieve your goals and impact</p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-bcb3589aa91923cefd43"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-bcb3589aa91923cefd43"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--left"
+  data-animation-role="button"
+  data-alignment="left"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/about"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Learn More
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1663690191812_36814"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1663690191812_36814"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h4 style="text-align:center;white-space:pre-wrap;">I provide a range of expertise to support purpose-driven organisations</h4>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+    <button class='background-pause-button' aria-label="Pause Background"></button>
+<button class='background-pause-button paused' aria-label="Play Background"></button>
+
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    white'
+  
+  data-section-id="632468012e837e0192fc4547"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;customSectionHeight&quot;: 11,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;white&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;page&quot;
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-632468012e837e0192fc4546 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(6,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-632468012e837e0192fc4546 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-632468012e837e0192fc4546 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(3,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-d6e420bd5088859c72fd {
+    grid-area: 1/2/7/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-d6e420bd5088859c72fd .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-d6e420bd5088859c72fd .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-d6e420bd5088859c72fd {
+      grid-area: 1/5/4/23;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-d6e420bd5088859c72fd .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-d6e420bd5088859c72fd .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-632468012e837e0192fc4546"><div class="fe-block fe-block-d6e420bd5088859c72fd"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-d6e420bd5088859c72fd"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">“Every organisation should have a clear social purpose”</h3>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="632468012e837e0192fc454d"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+&quot;customSectionHeight&quot;: 39,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;bright&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;page&quot;
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 39vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+           padding-bottom: calc(39vmax / 5);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-632468012e837e0192fc454c {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(18,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-632468012e837e0192fc454c {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-632468012e837e0192fc454c {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(13,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1663661796758_84726 {
+    grid-area: 1/2/17/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1663661796758_84726 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1663661796758_84726 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1663661796758_84726 {
+      grid-area: 5/9/14/19;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1663661796758_84726 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1663661796758_84726 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1663661796758_133408 {
+    grid-area: 17/2/19/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1663661796758_133408 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1663661796758_133408 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1663661796758_133408 {
+      grid-area: 1/9/5/19;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1663661796758_133408 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1663661796758_133408 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-632468012e837e0192fc454c"><div class="fe-block fe-block-yui_3_17_2_1_1663661796758_84726"><div class="sqs-block form-block sqs-block-form" data-blend-mode="NORMAL" data-block-type="9" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1663661796758_84726"><div class="sqs-block-content">
+
+  <script type="application/json" id="form-context-63297e382a5b523f9e33964b" class="sqs-form-block-context">{"secureUrl":"https://keyboard-saffron-ja7l.squarespace.com","formSubmitButtonText":"Send","formSubmissionMessage":{"html":"Thank you!"},"submissionVerticalAlignment":"","buttonAlignment":"center","submissionMessageTextStyle":"","formName":"Insight Blog (home)","collectionId":"632468012e837e0192fc453c","submissionAnimation":"","captchaTheme":1,"formId":"63297e382a5b523f9e33964b","useLightbox":false,"firstFieldHighlightType":"","successRedirect":"","useFormsJs":true,"submissionTextAlignment":"","formFieldFormats":{"initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"GB","labelLocale":"en-US","fields":[{"type":"FIELD","label":"1","identifier":"1","length":4,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"2","identifier":"2","length":16,"required":false,"metadata":{}}]},"countries":[{"name":"Afghanistan","code":"AF","phoneCode":"+93"},{"name":"Åland Islands","code":"AX","phoneCode":"+358"},{"name":"Albania","code":"AL","phoneCode":"+355"},{"name":"Algeria","code":"DZ","phoneCode":"+213"},{"name":"American Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua & Barbuda","code":"AG","phoneCode":"+1"},{"name":"Argentina","code":"AR","phoneCode":"+54"},{"name":"Armenia","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension Island","code":"AC","phoneCode":"+247"},{"name":"Australia","code":"AU","phoneCode":"+61"},{"name":"Austria","code":"AT","phoneCode":"+43"},{"name":"Azerbaijan","code":"AZ","phoneCode":"+994"},{"name":"Bahamas","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belarus","code":"BY","phoneCode":"+375"},{"name":"Belgium","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnia & Herzegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brazil","code":"BR","phoneCode":"+55"},{"name":"British Indian Ocean Territory","code":"IO","phoneCode":"+246"},{"name":"British Virgin Islands","code":"VG","phoneCode":"+1"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgaria","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Cambodia","code":"KH","phoneCode":"+855"},{"name":"Cameroon","code":"CM","phoneCode":"+237"},{"name":"Canada","code":"CA","phoneCode":"+1"},{"name":"Cape Verde","code":"CV","phoneCode":"+238"},{"name":"Caribbean Netherlands","code":"BQ","phoneCode":"+599"},{"name":"Cayman Islands","code":"KY","phoneCode":"+1"},{"name":"Central African Republic","code":"CF","phoneCode":"+236"},{"name":"Chad","code":"TD","phoneCode":"+235"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"China","code":"CN","phoneCode":"+86"},{"name":"Christmas Island","code":"CX","phoneCode":"+61"},{"name":"Cocos (Keeling) Islands","code":"CC","phoneCode":"+61"},{"name":"Colombia","code":"CO","phoneCode":"+57"},{"name":"Comoros","code":"KM","phoneCode":"+269"},{"name":"Congo - Brazzaville","code":"CG","phoneCode":"+242"},{"name":"Congo - Kinshasa","code":"CD","phoneCode":"+243"},{"name":"Cook Islands","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Côte d’Ivoire","code":"CI","phoneCode":"+225"},{"name":"Croatia","code":"HR","phoneCode":"+385"},{"name":"Cuba","code":"CU","phoneCode":"+53"},{"name":"Curaçao","code":"CW","phoneCode":"+599"},{"name":"Cyprus","code":"CY","phoneCode":"+357"},{"name":"Czechia","code":"CZ","phoneCode":"+420"},{"name":"Denmark","code":"DK","phoneCode":"+45"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominican Republic","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypt","code":"EG","phoneCode":"+20"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Equatorial Guinea","code":"GQ","phoneCode":"+240"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Estonia","code":"EE","phoneCode":"+372"},{"name":"Eswatini","code":"SZ","phoneCode":"+268"},{"name":"Ethiopia","code":"ET","phoneCode":"+251"},{"name":"Falkland Islands","code":"FK","phoneCode":"+500"},{"name":"Faroe Islands","code":"FO","phoneCode":"+298"},{"name":"Fiji","code":"FJ","phoneCode":"+679"},{"name":"Finland","code":"FI","phoneCode":"+358"},{"name":"France","code":"FR","phoneCode":"+33"},{"name":"French Guiana","code":"GF","phoneCode":"+594"},{"name":"French Polynesia","code":"PF","phoneCode":"+689"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgia","code":"GE","phoneCode":"+995"},{"name":"Germany","code":"DE","phoneCode":"+49"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Greece","code":"GR","phoneCode":"+30"},{"name":"Greenland","code":"GL","phoneCode":"+299"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hong Kong SAR China","code":"HK","phoneCode":"+852"},{"name":"Hungary","code":"HU","phoneCode":"+36"},{"name":"Iceland","code":"IS","phoneCode":"+354"},{"name":"India","code":"IN","phoneCode":"+91"},{"name":"Indonesia","code":"ID","phoneCode":"+62"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Iraq","code":"IQ","phoneCode":"+964"},{"name":"Ireland","code":"IE","phoneCode":"+353"},{"name":"Isle of Man","code":"IM","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italy","code":"IT","phoneCode":"+39"},{"name":"Jamaica","code":"JM","phoneCode":"+1"},{"name":"Japan","code":"JP","phoneCode":"+81"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordan","code":"JO","phoneCode":"+962"},{"name":"Kazakhstan","code":"KZ","phoneCode":"+7"},{"name":"Kenya","code":"KE","phoneCode":"+254"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Kyrgyzstan","code":"KG","phoneCode":"+996"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Latvia","code":"LV","phoneCode":"+371"},{"name":"Lebanon","code":"LB","phoneCode":"+961"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libya","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Lithuania","code":"LT","phoneCode":"+370"},{"name":"Luxembourg","code":"LU","phoneCode":"+352"},{"name":"Macao SAR China","code":"MO","phoneCode":"+853"},{"name":"Madagascar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malaysia","code":"MY","phoneCode":"+60"},{"name":"Maldives","code":"MV","phoneCode":"+960"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Marshall Islands","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauritania","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Mexico","code":"MX","phoneCode":"+52"},{"name":"Micronesia","code":"FM","phoneCode":"+691"},{"name":"Moldova","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongolia","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Morocco","code":"MA","phoneCode":"+212"},{"name":"Mozambique","code":"MZ","phoneCode":"+258"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Netherlands","code":"NL","phoneCode":"+31"},{"name":"New Caledonia","code":"NC","phoneCode":"+687"},{"name":"New Zealand","code":"NZ","phoneCode":"+64"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Norfolk Island","code":"NF","phoneCode":"+672"},{"name":"Northern Mariana Islands","code":"MP","phoneCode":"+1"},{"name":"North Korea","code":"KP","phoneCode":"+850"},{"name":"North Macedonia","code":"MK","phoneCode":"+389"},{"name":"Norway","code":"NO","phoneCode":"+47"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestinian Territories","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua New Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Philippines","code":"PH","phoneCode":"+63"},{"name":"Poland","code":"PL","phoneCode":"+48"},{"name":"Portugal","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"Réunion","code":"RE","phoneCode":"+262"},{"name":"Romania","code":"RO","phoneCode":"+40"},{"name":"Russia","code":"RU","phoneCode":"+7"},{"name":"Rwanda","code":"RW","phoneCode":"+250"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"São Tomé & Príncipe","code":"ST","phoneCode":"+239"},{"name":"Saudi Arabia","code":"SA","phoneCode":"+966"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbia","code":"RS","phoneCode":"+381"},{"name":"Seychelles","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakia","code":"SK","phoneCode":"+421"},{"name":"Slovenia","code":"SI","phoneCode":"+386"},{"name":"Solomon Islands","code":"SB","phoneCode":"+677"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"South Africa","code":"ZA","phoneCode":"+27"},{"name":"South Korea","code":"KR","phoneCode":"+82"},{"name":"South Sudan","code":"SS","phoneCode":"+211"},{"name":"Spain","code":"ES","phoneCode":"+34"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"St. Barthélemy","code":"BL","phoneCode":"+590"},{"name":"St. Helena","code":"SH","phoneCode":"+290"},{"name":"St. Kitts & Nevis","code":"KN","phoneCode":"+1"},{"name":"St. Lucia","code":"LC","phoneCode":"+1"},{"name":"St. Martin","code":"MF","phoneCode":"+590"},{"name":"St. Pierre & Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Vincent & Grenadines","code":"VC","phoneCode":"+1"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Suriname","code":"SR","phoneCode":"+597"},{"name":"Svalbard & Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Sweden","code":"SE","phoneCode":"+46"},{"name":"Switzerland","code":"CH","phoneCode":"+41"},{"name":"Syria","code":"SY","phoneCode":"+963"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tajikistan","code":"TJ","phoneCode":"+992"},{"name":"Tanzania","code":"TZ","phoneCode":"+255"},{"name":"Thailand","code":"TH","phoneCode":"+66"},{"name":"Timor-Leste","code":"TL","phoneCode":"+670"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad & Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tunisia","code":"TN","phoneCode":"+216"},{"name":"Turkey","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks & Caicos Islands","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"U.S. Virgin Islands","code":"VI","phoneCode":"+1"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraine","code":"UA","phoneCode":"+380"},{"name":"United Arab Emirates","code":"AE","phoneCode":"+971"},{"name":"United Kingdom","code":"GB","phoneCode":"+44"},{"name":"United States","code":"US","phoneCode":"+1"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatican City","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"Wallis & Futuna","code":"WF","phoneCode":"+681"},{"name":"Western Sahara","code":"EH","phoneCode":"+212"},{"name":"Yemen","code":"YE","phoneCode":"+967"},{"name":"Zambia","code":"ZM","phoneCode":"+260"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"}],"initialAddressFormat":{"id":0,"type":"ADDRESS","country":"GB","labelLocale":"en","fields":[{"type":"FIELD","label":"Address Line 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Address Line 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"City / Town","identifier":"City","length":0,"required":true,"metadata":{"autocomplete":"address-level1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Postcode","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}}]}},"showTitle":false,"captchaEnabled":false,"buttonVariant":"","objectName":"yui_3_17_2_1_1663661796758_84726","disclaimerMessage":null,"formFields":[{"type":"name","id":"name-yui_3_17_2_1_1663661796258_3159","locked":false,"title":"Name","description":"","required":true,"name":true},{"type":"email","id":"email-yui_3_17_2_1_1663663585660_3736","locked":false,"title":"Email","description":"","placeholder":"","required":true,"email":true}],"captchaAlignment":1,"lightboxHandleText":"","localizedStrings":{"validation":{"noValidSelection":"A valid selection must be made.","invalidEmail":"Email addresses should follow the format user@domain.com.","invalidUrl":"Must be a valid URL.","invalidListLength":"Value should be {0} elements long.","allEmpty":"Please fill out at least one form field.","stringTooLong":"Value should have a length no longer than {0}.","missingRequiredQuestion":"Missing a required question.","invalidQuestion":"Contained an invalid question.","captchaFailure":"Captcha validation failed. Please try again.","containsInvalidKey":"{0} contains an invalid key.","stringTooShort":"Value should have a length of at least {0}.","invalidTwitterUsername":"Must be a valid Twitter username.","valueOutsideRange":"Value must be in the range {0} to {1}.","invalid":"{0} is not valid.","invalidPassword":"Passwords should not contain whitespace.","missingRequiredSubfields":"{0} is missing required subfields: {1}","invalidCurrency":"Currency value should be formatted like 1234 or 123.99.","invalidMapSize":"Value should contain exactly {0} elements.","formErrors":"Form Errors","containsInvalidValue":"{0} contains an invalid value.","subfieldsRequired":"All fields in {0} are required.","formSubmissionFailed":"Form submission failed. Review the following information: {0}.","invalidCountryCode":"Country code should have an optional plus and up to 4 digits.","invalidUnsignedNumber":"Numbers must contain only digits and no other characters.","invalidName":"Valid names contain only letters, numbers, spaces, ', or - characters.","invalidDate":"This is not a real date.","required":"{0} is required.","invalidStringLength":"Value should be {0} characters long."},"submit":"Submit","status":{"title":"{@} Block","learnMore":"Learn more"},"name":{"firstName":"First Name","lastName":"Last Name"},"address":{"country":"Country","zipPostalCode":"Zip/Postal Code","address2":"Address 2","address1":"Address 1","city":"City","stateProvince":"State/Province"},"lightbox":{"openForm":"Open Form"},"date":{"day":"Day","month":"Month","yyyy":"YYYY","year":"Year","dd":"DD","mm":"MM"},"likert":{"agree":"Agree","disagree":"Disagree","stronglyDisagree":"Strongly Disagree","stronglyAgree":"Strongly Agree","neutral":"Neutral"},"time":{"am":"AM","second":"Second","amPm":"AM/PM","pm":"PM","minute":"Minute","hour":"Hour"},"email":{"signUp":"Sign up for news and updates"},"cannotSubmitDemoForm":"This is a demo form and cannot be submitted.","notFound":"Form not found.","phone":{"country":"Country","number":"Number","prefix":"Prefix","areaCode":"Area Code","line":"Line"},"required":"(required)","submitError":"Unable to submit form. Please try again later.","invalidData":"Invalid form data."}}</script>
+  <div id="form-submission-html-63297e382a5b523f9e33964b" class="sqs-form-block-submission-html" data-submission-html=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper"  hidden>
+    <form
+       data-form-id="63297e382a5b523f9e33964b"
+       data-success-redirect=""
+       data-dynamic-strings
+       autocomplete="on"
+       
+       method="POST"
+       action="https://keyboard-saffron-ja7l.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '63297e382a5b523f9e33964b',
+      collectionId: '632468012e837e0192fc453c',
+      objectName: 'yui_3_17_2_1_1663661796758_84726'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1663661796258_3159" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1663663585660_3736" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1663663585660_3736-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1663663585660_3736-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Send"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1663661796758_133408"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1663661796758_133408"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="text-align:center;white-space:pre-wrap;">Sign up to my Insight Blog</h3><p style="text-align:center;white-space:pre-wrap;" class="">Monthly in-depth analysis straight into your inbox.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>
+
+
+          
+
+          
+            
+          
+        
+      </main>
+      <script type="text/javascript">
+        const firstSection = document.querySelector('.page-section');
+        const header = document.querySelector('.header');
+        const mobileOverlayNav = document.querySelector('.header-menu');
+        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+        const headerHeight = header ? header.getBoundingClientRect().height : 0;
+        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+
+        if (firstSection) {
+          firstSection.style.paddingTop = headerHeight + 'px';
+        }
+        if (sectionBackground && isLayoutEngineSection) {
+          if (isFirstSectionInset) {
+            sectionBackground.style.top = headerHeight + 'px';
+          } else {
+            sectionBackground.style.top = '';
+          }
+        }
+        //# sourceURL=headerPositioning.js
+      </script>
+
+      
+        <footer class="sections" id="footer-sections" data-footer-sections>
+  
+  
+  
+  
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    white'
+  
+  data-section-id="632463ce1ce15753438502ee"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+&quot;customSectionHeight&quot;: 40,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;white&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;page&quot;
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 40vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(40vmax / 10); padding-bottom: calc(40vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-632463ce1ce15753438502ed {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(9,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-632463ce1ce15753438502ed {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-632463ce1ce15753438502ed {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(7,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-89b63bdb408fb3dd3c49 {
+    grid-area: 1/2/6/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-89b63bdb408fb3dd3c49 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-89b63bdb408fb3dd3c49 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-89b63bdb408fb3dd3c49 {
+      grid-area: 1/2/5/22;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-89b63bdb408fb3dd3c49 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-89b63bdb408fb3dd3c49 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-c0cba26eb92a5ec1cfe5 {
+    grid-area: 6/2/10/6;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-c0cba26eb92a5ec1cfe5 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c0cba26eb92a5ec1cfe5 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c0cba26eb92a5ec1cfe5 {
+      grid-area: 1/23/5/26;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-c0cba26eb92a5ec1cfe5 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-c0cba26eb92a5ec1cfe5 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-bcc96367949aabd99609 {
+    grid-area: 6/7/8/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-bcc96367949aabd99609 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-bcc96367949aabd99609 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-bcc96367949aabd99609 {
+      grid-area: 6/23/8/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-bcc96367949aabd99609 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-bcc96367949aabd99609 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-632463ce1ce15753438502ed"><div class="fe-block fe-block-89b63bdb408fb3dd3c49"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-89b63bdb408fb3dd3c49"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;">Copyright 2022: Beautiful Enterprise</p><p class="sqsrte-small" style="white-space:pre-wrap;">Image credits: London skyline by Tim Easley, Tim’s portraits by Rosie Wedderburn</p><p class="sqsrte-small" style="white-space:pre-wrap;">Logo: Max Randall Design</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-c0cba26eb92a5ec1cfe5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c0cba26eb92a5ec1cfe5"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-small" style="white-space:pre-wrap;"><a href="/about">About</a></p><p class="sqsrte-small" style="white-space:pre-wrap;"><a href="freequote">Contact</a></p><p class="sqsrte-small" style="white-space:pre-wrap;"><a href="/insight">Insight Blog</a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div class="fe-block fe-block-bcc96367949aabd99609"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-bcc96367949aabd99609"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-left social-icons-color- social-icons-size-small social-icons-style-regular " >
+  <style>
+    #block-bcc96367949aabd99609 .social-icons-style-border .sqs-svg-icon--wrapper {
+      
+        box-shadow: 0 0 0 2px inset;
+      
+      border: none; 
+    }
+  </style>
+  <nav class="sqs-svg-icon--list">
+    <a href="https://twitter.com/timthorlby" target="_blank" class="sqs-svg-icon--wrapper twitter-unauth" aria-label="Twitter">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.linkedin.com/in/tim-thorlby-35a25821/?originalSubdomain=uk" target="_blank" class="sqs-svg-icon--wrapper linkedin-unauth" aria-label="LinkedIn">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#linkedin-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#linkedin-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</footer>
+
+      
+    </div>
+
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.c60096393cff060396b454574afa2699.js" type="text/javascript"></script>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="linkedin-unauth-icon" viewBox="0 0 64 64"><path d="M20.4,44h5.4V26.6h-5.4V44z M23.1,18c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c1.7,0,3.1-1.4,3.1-3.1C26.2,19.4,24.8,18,23.1,18z M39.5,26.2c-2.6,0-4.4,1.4-5.1,2.8h-0.1v-2.4h-5.2V44h5.4v-8.6 c0-2.3,0.4-4.5,3.2-4.5c2.8,0,2.8,2.6,2.8,4.6V44H46v-9.5C46,29.8,45,26.2,39.5,26.2z"/></symbol><symbol id="linkedin-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M25.8,44h-5.4V26.6h5.4V44z M23.1,24.3c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1 c1.7,0,3.1,1.4,3.1,3.1C26.2,22.9,24.8,24.3,23.1,24.3z M46,44h-5.4v-8.4c0-2,0-4.6-2.8-4.6c-2.8,0-3.2,2.2-3.2,4.5V44h-5.4V26.6 h5.2V29h0.1c0.7-1.4,2.5-2.8,5.1-2.8c5.5,0,6.5,3.6,6.5,8.3V44z"/></symbol></svg>
+
+  </body>
+</html>
